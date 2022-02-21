@@ -1,0 +1,29 @@
+#container{
+    display: flex;
+    border:1px solid black;
+  }
+  #sidebar{
+    flex:2;
+    border: 1px solid red;
+  }
+  #main{
+    flex:8;
+    border:1px solid black;
+  }
+  #con{
+    display: flex;
+  }
+  #head{
+    flex:1;
+    border:1px solid black;
+  }
+  #desc{
+    flex:1;
+    border:1px solid black;
+  }
+  img{
+    flex:1;
+    width: 60%;
+    height: 60%;
+  }
+  
